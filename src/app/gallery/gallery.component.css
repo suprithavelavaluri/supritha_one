@@ -1,0 +1,19 @@
+.a{
+    width:1300px;
+    border-bottom: 1px solid rgb(98, 97, 97);
+    margin-left: 80px;
+}
+.gallery1 {
+    display: flex;
+    background-color: #dfeef3;
+    justify-content: space-evenly;
+    padding-top: 70px;
+   
+}
+.gallery2{
+    display: flex;
+    background-color: #dfeef3;
+    justify-content: space-evenly;
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
